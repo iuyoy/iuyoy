@@ -1,7 +1,9 @@
 
 ### Welcome, <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuyoy&hide=c%2B%2B">
 
-*It is iuyyoy's Github.*
+*It is iuyoy's Github.*
+
+---
 
 :point_left:Here is an **avatar**.
 
