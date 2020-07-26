@@ -11,4 +11,4 @@
 
 📌This is the **profile**.
 
-<p align="center">and :small_red_triangle_down: There are main <b>repos</b>.</p>
+<p align="center">:small_red_triangle_down: there are some <b>repos</b>.</p>
